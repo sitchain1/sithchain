@@ -1,0 +1,6 @@
+usr/local/bin/sithchain-qt usr/bin
+share/pixmaps/sithchain32.xpm usr/share/pixmaps
+share/pixmaps/sithchain16.xpm usr/share/pixmaps
+share/pixmaps/sithchain128.png usr/share/pixmaps
+debian/sithchain-qt.desktop usr/share/applications
+debian/sithchain-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sithchain
+Comment=Sithchain P2P Cryptocurrency
+Comment[fr]=Sithchain, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Sithchain, eşten eşe kriptografik sanal para birimi
+Exec=sithchain-qt %u
+Terminal=false
+Type=Application
+Icon=sithchain128
+MimeType=x-scheme-handler/sithchain;
+Categories=Office;Finance;
